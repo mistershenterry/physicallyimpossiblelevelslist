@@ -97,7 +97,7 @@ const LEVELS = [
     video: "https://www.youtube.com/watch?v=TVbBxNt5p8s",
     id: "72857905",
     fps: "N/A",
-    version: "2.2",
+    version: "2.1",
     tps: "N/A"
   },
   {
