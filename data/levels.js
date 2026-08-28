@@ -59,5 +59,55 @@ const LEVELS = [
     fps: "N/A",
     version: "2.2",
     tps: "N/A"
+  },
+  {
+    name: "Celestial",
+    creators: "NocPleFiy",
+    publisher: "NocPleFiy",
+    video: "https://www.youtube.com/watch?v=mwPmgJZAibo",
+    id: "113802098",
+    fps: "N/A",
+    version: "2.2",
+    tps: "N/A"
+  },
+  {
+    name: "emptiness",
+    creators: "EulerNum",
+    publisher: "PhysImpossible",
+    video: "https://www.youtube.com/watch?v=pSo2zEQBD5E",
+    id: "105979418",
+    fps: "N/A",
+    version: "2.2",
+    tps: "N/A"
+  },
+  {
+    name: "The Disturbed",
+    creators: "ij5ij5ij5",
+    publisher: "PhysImpossible",
+    video: "https://www.youtube.com/watch?v=-eVZk_sRZxo",
+    id: "113216902",
+    fps: "N/A",
+    version: "2.2",
+    tps: "N/A"
+  },
+  {
+    name: "The Beyond",
+    creators: "Alistef",
+    publisher: "Alistef",
+    video: "https://www.youtube.com/watch?v=TVbBxNt5p8s",
+    id: "72857905",
+    fps: "N/A",
+    version: "2.2",
+    tps: "N/A"
+  },
+  {
+    name: "Vevendy",
+    creators: "staken & Jehes",
+    publisher: "PhysImpossible",
+    video: "https://www.youtube.com/watch?v=7romcnfTNK0",
+    id: "105979904",
+    fps: "N/A",
+    version: "2.2",
+    tps: "N/A"
   }
 ];
